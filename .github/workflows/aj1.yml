@@ -6,7 +6,7 @@ on:
 jobs:
   Print1:
     runs-on: ubuntu-latest
-     steps:
+    steps:
        - run: |
            echo "Print1 - Step 1"
            
